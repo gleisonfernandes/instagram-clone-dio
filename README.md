@@ -1,2 +1,7 @@
 # instagram-clone-dio
-Esse é o repositório da aula de Flexbox, na qual foi feita a interface de login do Instagram!
+Esse é o repositório do conteúdo Flexbox do curso da DIO no Santander Bootcamp Fullstack Developer, na qual foi feita a interface de login do Instagram!
+
+### Tecnologias uitilizadas:
+
+* HTML básico
+* CSS básico
